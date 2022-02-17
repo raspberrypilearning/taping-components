@@ -1,59 +1,9 @@
-## Introduction
+Use sticky tape or electrical tape to secure jumper wires to components or hold components in place so that your device stays together.
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+You can remove the tape later if you want to reuse the components.
 
-### What you will make
+![A red LED with jumper wires connected to each leg. Electrical tape is wrapped round the connection to hold them together.](images/taped-wires.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+![A red LED with jumper wires connected to each leg. Electrical tape is wrapped over the LED legs near the head to hold the LED in place on the cardboard.](images/taped-component.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+![An RGB LED with jumper wires soldered to each leg. The LED is mounted through a cardboard tube with legs sticking out of the back. Electrical tape is wrapped over the LED legs to hold them to the tube.](images/taped-mount.png)
