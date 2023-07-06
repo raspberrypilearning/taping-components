@@ -1,9 +1,9 @@
-Use sticky tape or electrical tape to secure jumper wires to components or hold components in place so that your device stays together.
+Gebruik plakband of isolatietape om verbindingsdraden vast te maken aan componenten of om componenten op hun plek te houden zodat je toestel bij elkaar blijft.
 
-You can remove the tape later if you want to reuse the components.
+Je kunt de tape later verwijderen als je de onderdelen opnieuw wilt gebruiken.
 
-![A red LED with jumper wires connected to each leg. Electrical tape is wrapped round the connection to hold them together.](images/taped-wires.png)
+![Een rode LED met verbindingsdraden aangesloten op elke poot. Isolatietape is om de verbinding gewikkeld om de onderdelen bij elkaar te houden.](images/taped-wires.png)
 
-![A red LED with jumper wires connected to each leg. Electrical tape is wrapped over the LED legs near the head to hold the LED in place on the cardboard.](images/taped-component.png)
+![Een rode LED met verbindingsdraden aangesloten op elke poot. Isolatietape is om de LED-poten dicht bij de kop gewikkeld om de LED op zijn plaats op het karton te houden.](images/taped-component.png)
 
-![An RGB LED with jumper wires soldered to each leg. The LED is mounted through a cardboard tube with legs sticking out of the back. Electrical tape is wrapped over the LED legs to hold them to the tube.](images/taped-mount.png)
+![Een RGB-LED met verbindingsdraden gesoldeerd aan elke poot. De LED is gemonteerd door een kartonnen koker met pootjes die uit de achterkant steken. Isolatietape is om de LED-poten gewikkeld om ze aan de koker vast te maken.](images/taped-mount.png)
