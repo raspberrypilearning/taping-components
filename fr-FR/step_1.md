@@ -1,9 +1,9 @@
-Use sticky tape or electrical tape to secure jumper wires to components or hold components in place so that your device stays together.
+Utilise du ruban adhésif ou du ruban électrique pour fixer les fils de liaison aux composants ou maintenir les composants en place afin que ton appareil ne se désolidarise pas.
 
-You can remove the tape later if you want to reuse the components.
+Tu peux retirer le ruban adhésif plus tard si tu souhaites réutiliser les composants.
 
-![A red LED with jumper wires connected to each leg. Electrical tape is wrapped round the connection to hold them together.](images/taped-wires.png)
+![Une LED rouge avec des fils de liaison connectés à chaque patte. Du ruban électrique est enroulé autour de la connexion pour les maintenir ensemble.](images/taped-wires.png)
 
-![A red LED with jumper wires connected to each leg. Electrical tape is wrapped over the LED legs near the head to hold the LED in place on the cardboard.](images/taped-component.png)
+![Une LED rouge avec des fils de liaison connectés à chaque patte. Du ruban électrique est enroulé sur les pattes de la LED près de la tête pour maintenir la LED en place sur le carton.](images/taped-component.png)
 
-![An RGB LED with jumper wires soldered to each leg. The LED is mounted through a cardboard tube with legs sticking out of the back. Electrical tape is wrapped over the LED legs to hold them to the tube.](images/taped-mount.png)
+![Une LED RVB avec des fils de liaison soudés à chaque patte. La LED est montée dans un tube en carton dont les pattes dépassent à l'arrière. Du ruban électrique est enroulé sur les pattes de la LED pour les maintenir au tube.](images/taped-mount.png)
